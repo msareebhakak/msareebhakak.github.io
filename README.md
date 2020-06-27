@@ -1,2 +1,2 @@
 # Portfolio
-Repository to host the portfolio in pdf format.
+Repository to host my resume and portfolio in pdf format.
